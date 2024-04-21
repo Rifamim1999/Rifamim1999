@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rifa
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently student
 - 📫 How to reach me : https://github.com/Rifamim1999
 
 <!---
